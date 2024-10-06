@@ -1,0 +1,29 @@
+
+
+
+
+.redbox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 0px;
+    
+}
+.green{
+    background-color: green;
+    padding: 10px;
+   
+    
+}
+
+.blu{
+    
+    height: 200px;
+    width: 300px;
+    margin: 10px;
+    
+    
+
+    
+
+}
